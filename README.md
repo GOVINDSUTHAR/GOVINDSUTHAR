@@ -14,7 +14,8 @@ As a self-taught geek developer and backend builder, my objective is to consiste
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/govindsuthar/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/)  
 
 ## Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vasantisuthar&theme=dracula&hide_border=true)
+![Snake animation](https://github.com/GOVINDSUTHAR/GOVINDSUTHAR/blob/output/github-contribution-grid-snake.svg)
+
 
 
 # 💻Tech Stack
@@ -23,9 +24,6 @@ As a self-taught geek developer and backend builder, my objective is to consiste
 ![](https://github-readme-stats.vercel.app/api?username=GOVINDSUTHAR&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GOVINDSUTHAR&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GOVINDSUTHAR&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-![Snake animation](https://github.com/GOVINDSUTHAR/GOVINDSUTHAR/blob/output/github-contribution-grid-snake.svg)
-
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/vasantisutQ)
 

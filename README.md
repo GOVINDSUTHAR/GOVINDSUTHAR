@@ -5,7 +5,7 @@ As a self-taught geek developer and backend builder, my objective is to consiste
 
 # 💫About Me :
 - :earth_africa:		 I like to contribute to open source and explore github.
-- :handshake: If you want any collaboration feel free to mail me at vasantisuthar15@gmail.com.
+- :handshake: If you want any collaboration feel free to mail me at mr.govindsuthar@gmail.com
 - :v: I'm open to opportunities.
 - :zap: Fun fact: Like to see UFC and sports biography 
 
